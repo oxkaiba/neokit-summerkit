@@ -14,7 +14,7 @@ export const siteConfig = {
     discord: "https://discord.gg/",
     telegram: "https://t.me/",
     github: "https://github.com/",
-    repo: "https://github.com/oxkaiba/summerkit-dynamic",
+    repo: "https://github.com/oxkaiba/neokit-summerkit",
     trade: "https://aerodrome.finance/swap/",
     bridge: "https://superbridge.app/base/",
   },

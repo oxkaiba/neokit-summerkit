@@ -1,4 +1,4 @@
-![SummerKit](/public/metasummerkitold.png)
+![SummerKit](/public/retrometadata.png)
 
 This is a [Next.js](https://nextjs.org/) project using [Dynamic](https://dynamic.xyz), [Wagmi](https://wagmi.sh), [Viem](https://viem.sh), [Shadcn](https://ui.shadcn.com) and [Tailwind](https://tailwindcss.com) for Base and Base Sepolia (Coinbase Smart-Wallet Supported)
 

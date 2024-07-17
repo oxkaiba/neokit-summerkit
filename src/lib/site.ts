@@ -5,7 +5,7 @@ export const siteConfig = {
   version: "v0.9.22",
   url: "https://neokit.summer.sh/",
   logo: "https://kit.summer.sh/skit.svg",
-  ogImage: "https://neobrutal-alpha-summerkit.vercel.app/retrometadata.png",
+  ogImage: "https://neokit.summer.sh/retrometadata.png",
   description:
     "A Neobrutalism styled boilerplate to easily get started building the Onchain Summer.",
   links: {

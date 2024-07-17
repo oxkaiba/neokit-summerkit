@@ -7,7 +7,7 @@ This is a [Next.js](https://nextjs.org/) project using [Dynamic](https://dynamic
 Open your IDE of choice and run 
 
 ```bash 
-git clone https://github.com/oxkaiba/summerkit-dynamic.git
+git clone https://github.com/oxkaiba/neokit-summerkit.git
 ```
 Then, install all the dependencies needed by running:
 

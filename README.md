@@ -33,8 +33,6 @@ To learn more about Next.js, Dynamic and Wagmi hooks by taking a look at the fol
 - [Dynamic Documentation](https://docs.dynamic.xyz/introduction/welcome) - Change everything Wallet related, add social connectors, smart-wallets, customize your UI and more.
 - [Wagmi Documentation](https://wagmi.sh/react/getting-started) - Wagmi Ethereum hooks to call function on your Smart Contracts.
 
-You can check out [SummerKit GitHub repository](https://github.com/summershsh/summerkit) - Your feedback and contributions are welcome!
-
 ##
 
 Happy Building! 🟡
